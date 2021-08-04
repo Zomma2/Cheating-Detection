@@ -1,0 +1,8 @@
+
+backpack
+handbag
+suitcase
+tvmonitor
+laptop
+cell phone
+book
