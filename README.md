@@ -1,5 +1,6 @@
 # Cheating-Detection
 ![Cheating Detection](http://www.takepart.com/sites/default/files/styles/large/public/CheatingHandAtlantic.jpg)
+
 The supervision of students in an exam is a manual time-consuming job that can be automated completely by using various machine learning algorithms in this section ML/DL techniques used in cheating detection process is highlighted and identified.
 ----
 Creation of automated exam supervision require multiple parts to be figured out to mimic the real/original process of supervision:
